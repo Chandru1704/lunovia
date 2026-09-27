@@ -1,7 +1,7 @@
 let chatHistory = [];
 
 // Set this to the deployed Cloudflare Worker URL.
-const WORKER_ENDPOINT = "https://YOUR-WORKER.YOUR-SUBDOMAIN.workers.dev";
+const WORKER_ENDPOINT = "https://lunovia-chat-api.lunovia.workers.dev";
 
 function autoResize(el) {
   el.style.height = 'auto';

@@ -5,4 +5,4 @@ compatibility_date = "2026-09-26"
 [vars]
 # Replace with the exact origin shown in the browser address bar for GitHub Pages.
 # Project Pages uses https://USERNAME.github.io; custom domains use their own origin.
-ALLOWED_ORIGIN = "https://YOUR-GITHUB-USERNAME.github.io"
+ALLOWED_ORIGIN = "https://chandru1704.github.io"
